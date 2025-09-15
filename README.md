@@ -21,17 +21,7 @@ CSS: For all the styling and making it look good. I used CSS variables to make i
 
 JavaScript: To handle all the interactive parts, like the animations and the menu.
 
-How the Files are Laid Out
-If you want to check out the code, here’s where everything is:
 
-PORTFOLIO/
-├── index.html        
-├── style.css          
-├── script.js          
-└── media/             
-    ├── dp3.jpg
-    ├── logo.png
-    └── logoimg.svg
 How to See It Live
 It's super simple. Just download the files and open the index.html file in your browser. That's it, you're good to go.
 
