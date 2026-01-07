@@ -19,7 +19,7 @@ document.addEventListener('click', e => {
 
 
 const el = document.getElementById('typing');
-const words = ['Web Developer', 'Electrical Engg', 'C / C++ Coder', 'DSA Learner'];
+const words = ['Web Developer', 'Electrical Engg', 'C / C++ Coder', 'React Developer'];
 let w = 0, c = 0, del = false;
 function type() {
     const word = words[w % words.length];
